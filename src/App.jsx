@@ -213,8 +213,8 @@ const SPECTRUM_COLORS = [
 
 const PHONE = '+91 87588 52951'
 const PHONE_RAW = '+918758852951'
-const PHONE2 = '+91 75758 23920'
-const PHONE2_RAW = '+917575823920'
+const PHONE2 = '+91 7046723091'
+const PHONE2_RAW = '+917046723091'
 const WHATSAPP_BASE = 'https://wa.me/918758852951'
 const EMAIL = 'satiichemicals@gmail.com'
 const WA_DEFAULT_MSG = 'Hello SATI I CHEMICALS, I am interested in your Reactive Dye and Pigment Colour products. Please share more information.'
